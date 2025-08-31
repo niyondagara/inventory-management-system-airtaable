@@ -1,5 +1,5 @@
 **Author:** Niyondagara Alec David
-# inventory-management-system-airtaable
+# inventory-management-system-airtable
 ## 🔗  Airtable Project
 👉 [Click here to open the Airtable project](https://airtable.com/appOXeBpcIMfWBsGD/shrkY36CJcAi7uBZh)  
 ## 📄 About This Repo
