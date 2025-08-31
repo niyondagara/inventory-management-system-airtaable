@@ -8,7 +8,8 @@ It also integrates: •>> Automation to monitor and track inventory units (quant
 >>• A user-friendly input form for adding specific information quickly and accurately
 
 ## 🔗  Airtable Project
-👉 [Click here to open the Airtable project](https://airtable.com/appOXeBpcIMfWBsGD/shrkY36CJcAi7uBZh)  
+👉 [Click here to open the Airtable project](https://airtable.com/appOXeBpcIMfWBsGD/shrkY36CJcAi7uBZh) 
+ 
 ## 📄 About This Repo
 This repo serves as the public showcase of my project.  
 It contains:
